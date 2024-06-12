@@ -4,6 +4,7 @@
 
 #### Techniques Used:
 * Inferential Statistics
+* Feature Engineering
 * Linear Regression
 * Logistic Regression
 * Classification Models
